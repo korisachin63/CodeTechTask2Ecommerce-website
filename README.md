@@ -8,10 +8,10 @@ Mentor : SRAVANI GOUNI
 Overview of Project
 
 E-COMMERCE WEBSITE
+ 
 
-![Screenshot from 2024-08-29 06-57-45](https://github.com/user-attachments/assets/39786b2e-4625-49d5-a5b1-09adb7c418b7)
 
-
+![Screenshot From 2024-12-07 13-45-51](https://github.com/user-attachments/assets/21472235-ba71-4fb3-8390-6b99740f3ebd)
 
 
 
